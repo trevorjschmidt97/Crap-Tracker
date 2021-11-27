@@ -1,0 +1,6 @@
+framework module Pods_Crap_Tracker__macOS_ {
+  umbrella header "Pods-Crap Tracker (macOS)-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>293759567878-7vhdi1590e1v2kdsc9eg98mt9ghqabjd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.293759567878-7vhdi1590e1v2kdsc9eg98mt9ghqabjd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKctGJAe8j6AIf8J1RuWB4mRwLpYbCaRY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>293759567878</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.TrevorSchmidt.Crap-Tracker</string>
+	<key>PROJECT_ID</key>
+	<string>crap-tracker-f3cc2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crap-tracker-f3cc2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:293759567878:ios:fbe0a6675773e94e83db87</string>
+</dict>
+</plist>
